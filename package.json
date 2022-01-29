@@ -34,7 +34,7 @@
     "monitorss": "6.13.19",
     "natural": "5.1.13",
     "node-cache": "5.1.2",
-    "node-fetch": "2.6.1",
+    "node-fetch": "2.6.7",
     "openai": "2.0.2",
     "polish-plurals": "1.1.0",
     "request": "2.88.2",
